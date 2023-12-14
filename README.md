@@ -48,13 +48,13 @@ for device in $target_devices; do
 done
    ```
 
-## how to install:
+## Installation:
 
 ```
 git clone https://github.com/hesam-zahiri/secure-erase.git
 ```
 
-## how to use:
+## How to use:
 
    ```bash
 cd SecureErease
