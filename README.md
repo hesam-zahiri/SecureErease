@@ -61,7 +61,7 @@ cd SecureErease
    ```
    
    ```bash
-bash SecureErease.sh
+bash SecureErase.sh
    ```
 
 ## Attention!!
