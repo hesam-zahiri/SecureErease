@@ -51,7 +51,7 @@ done
 ## Installation:
 
 ```
-git clone https://github.com/hesam-zahiri/secure-erase.git
+https://github.com/hesam-zahiri/SecureErease.git
 ```
 
 ## How to use:
