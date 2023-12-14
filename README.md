@@ -51,7 +51,7 @@ done
 ## Installation:
 
 ```
-https://github.com/hesam-zahiri/SecureErease.git
+git clone https://github.com/hesam-zahiri/SecureErease.git
 ```
 
 ## How to use:
